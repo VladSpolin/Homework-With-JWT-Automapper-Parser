@@ -1,0 +1,15 @@
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\bin\Debug\net6.0\HomeworkApp.Mapper.deps.json
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\bin\Debug\net6.0\HomeworkApp.Mapper.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\bin\Debug\net6.0\HomeworkApp.Mapper.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\bin\Debug\net6.0\HomeworkApp.Model.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\bin\Debug\net6.0\HomeworkApp.Model.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.csproj.AssemblyReference.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.AssemblyInfoInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.AssemblyInfo.cs
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.csproj.CoreCompileInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.csproj.CopyComplete
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\refint\HomeworkApp.Mapper.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\HomeworkApp.Mapper.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Mapper\obj\Debug\net6.0\ref\HomeworkApp.Mapper.dll

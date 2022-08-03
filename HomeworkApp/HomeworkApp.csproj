@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeworkApp.BusinessLogic\HomeworkApp.BusinessLogic.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Mapper\HomeworkApp.Mapper.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Model\HomeworkApp.Model.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Parser\HomeworkApp.Parser.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\bin\Debug\net6.0\HomeworkApp.Model.deps.json
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\bin\Debug\net6.0\HomeworkApp.Model.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\bin\Debug\net6.0\HomeworkApp.Model.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.csproj.AssemblyReference.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.AssemblyInfoInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.AssemblyInfo.cs
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.csproj.CoreCompileInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\refint\HomeworkApp.Model.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\HomeworkApp.Model.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Model\obj\Debug\net6.0\ref\HomeworkApp.Model.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsHu4qjJnZ1OAfCs6Rp66Xt4/kUdCWEb5VVw1idlK6WD7HuLSU6PTiwt8d0DJ6/JAO85wVshcR9k1G7Kd5ZKqg==",
+  "success": true,
+  "projectFilePath": "D:\\My projects C#\\HomeworkApp\\HomeworkApp.Cryptography\\HomeworkApp.Cryptography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spoli\\.nuget\\packages\\cryptohelper\\3.0.2\\cryptohelper.3.0.2.nupkg.sha512",
+    "C:\\Users\\spoli\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.0.1\\microsoft.aspnetcore.cryptography.internal.2.0.1.nupkg.sha512",
+    "C:\\Users\\spoli\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\2.0.1\\microsoft.aspnetcore.cryptography.keyderivation.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

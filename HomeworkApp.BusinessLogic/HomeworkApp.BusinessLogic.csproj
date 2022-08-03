@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeworkApp.Cryptography\HomeworkApp.Cryptography.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Mapper\HomeworkApp.Mapper.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Model\HomeworkApp.Model.csproj" />
+    <ProjectReference Include="..\HomeworkApp.Parser\HomeworkApp.Parser.csproj" />
+  </ItemGroup>
+
+</Project>
