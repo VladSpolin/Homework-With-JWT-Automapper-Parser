@@ -1,0 +1,15 @@
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\bin\Debug\net6.0\HomeworkApp.Parser.deps.json
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\bin\Debug\net6.0\HomeworkApp.Parser.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\bin\Debug\net6.0\HomeworkApp.Parser.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\bin\Debug\net6.0\HomeworkApp.Model.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\bin\Debug\net6.0\HomeworkApp.Model.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.csproj.AssemblyReference.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.AssemblyInfoInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.AssemblyInfo.cs
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.csproj.CoreCompileInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.csproj.CopyComplete
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\refint\HomeworkApp.Parser.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\HomeworkApp.Parser.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Parser\obj\Debug\net6.0\ref\HomeworkApp.Parser.dll

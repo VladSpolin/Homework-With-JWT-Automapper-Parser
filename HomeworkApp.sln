@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp", "HomeworkApp\HomeworkApp.csproj", "{7819425F-137F-41A0-9000-1DA366AEA99F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. API", "1. API", "{D4B6FE2C-A831-4520-98BB-D36AD4436119}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. BusinessLogic", "2. BusinessLogic", "{AEE91F4E-E69D-4B18-81D6-C67CF5C2EF9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Model", "3. Model", "{165F8C12-EEE0-41F2-8597-7340BDD25FF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Mapper", "4. Mapper", "{06365020-CB22-45D3-8538-C73743D08768}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Parser", "5. Parser", "{2F2D5804-9A49-4ADE-A2D5-9A13EA9664AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp.Model", "HomeworkApp.Model\HomeworkApp.Model.csproj", "{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp.BusinessLogic", "HomeworkApp.BusinessLogic\HomeworkApp.BusinessLogic.csproj", "{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF} = {6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp.Mapper", "HomeworkApp.Mapper\HomeworkApp.Mapper.csproj", "{F9D117ED-3796-4F20-993C-D5C219740DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp.Parser", "HomeworkApp.Parser\HomeworkApp.Parser.csproj", "{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Cryptography", "6. Cryptography", "{45F39557-F636-4559-8BDD-2C38107C7D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkApp.Cryptography", "HomeworkApp.Cryptography\HomeworkApp.Cryptography.csproj", "{1016FBDB-B6D1-4010-BD63-5428225B6942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7819425F-137F-41A0-9000-1DA366AEA99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7819425F-137F-41A0-9000-1DA366AEA99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7819425F-137F-41A0-9000-1DA366AEA99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7819425F-137F-41A0-9000-1DA366AEA99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D117ED-3796-4F20-993C-D5C219740DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D117ED-3796-4F20-993C-D5C219740DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D117ED-3796-4F20-993C-D5C219740DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D117ED-3796-4F20-993C-D5C219740DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1016FBDB-B6D1-4010-BD63-5428225B6942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1016FBDB-B6D1-4010-BD63-5428225B6942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1016FBDB-B6D1-4010-BD63-5428225B6942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1016FBDB-B6D1-4010-BD63-5428225B6942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7819425F-137F-41A0-9000-1DA366AEA99F} = {D4B6FE2C-A831-4520-98BB-D36AD4436119}
+		{6CD3690F-AC04-43B3-AD40-F1BC1F13BCFF} = {165F8C12-EEE0-41F2-8597-7340BDD25FF0}
+		{74CEB9D2-9978-47AB-83E4-4A97EC8D69A2} = {AEE91F4E-E69D-4B18-81D6-C67CF5C2EF9E}
+		{F9D117ED-3796-4F20-993C-D5C219740DC1} = {06365020-CB22-45D3-8538-C73743D08768}
+		{F8379F04-9F3A-48B5-8CCC-4E5FD5B21505} = {2F2D5804-9A49-4ADE-A2D5-9A13EA9664AF}
+		{1016FBDB-B6D1-4010-BD63-5428225B6942} = {45F39557-F636-4559-8BDD-2C38107C7D96}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9DF1811-A087-4554-9F7C-721EBB9C4FD8}
+	EndGlobalSection
+EndGlobal

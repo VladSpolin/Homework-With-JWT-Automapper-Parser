@@ -1,0 +1,12 @@
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\bin\Debug\net6.0\HomeworkApp.Cryptography.deps.json
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\bin\Debug\net6.0\HomeworkApp.Cryptography.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\bin\Debug\net6.0\HomeworkApp.Cryptography.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.csproj.AssemblyReference.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.AssemblyInfoInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.AssemblyInfo.cs
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.csproj.CoreCompileInputs.cache
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\refint\HomeworkApp.Cryptography.dll
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\HomeworkApp.Cryptography.pdb
+D:\My projects C#\HomeworkApp\HomeworkApp.Cryptography\obj\Debug\net6.0\ref\HomeworkApp.Cryptography.dll
